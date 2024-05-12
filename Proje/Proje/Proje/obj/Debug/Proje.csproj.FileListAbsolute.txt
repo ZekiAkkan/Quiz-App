@@ -1,0 +1,39 @@
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\zeki\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\user\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\user\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.GenelKultur.resources
+C:\Users\user\Desktop\Proje\Proje\obj\Debug\Proje.Tarih.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.Biyoloji.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.GenelKultur.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.Tarih.resources
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Murat AKKAN\OneDrive\Masaüstü\Proje\Proje\Proje\obj\Debug\Proje.Chart.resources
