@@ -10,7 +10,7 @@ Bu basit quiz uygulaması, C# kullanılarak geliştirilmiş bir form uygulaması
 1. Proje dosyalarını indirin veya klonlayın.
 2. Visual Studio veya tercih ettiğiniz bir C# geliştirme ortamında projeyi açın.
 3. Proje dosyalarını derleyin ve çalıştırın.
-4. Quiz uygulaması başladığında, kullanıcı adınızı girin ve başlayın.
+4. Quiz uygulaması başladığında kategori seçin ve başlayın.
 
 ## Nasıl Çalışır
 
@@ -33,7 +33,7 @@ This is a simple quiz application developed using C# as a Windows Forms Applicat
 1. Download or clone the project files.
 2. Open the project in Visual Studio or your preferred C# development environment.
 3. Compile and run the project.
-4. When the quiz application starts, enter your username and begin.
+4. When the quiz application starts, select the category and start.
 
 ## How It Works
 
